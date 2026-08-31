@@ -1,0 +1,7 @@
+[server]
+runOnSave = true
+fileWatcherType = "watchdog"
+headless = true
+
+[browser]
+gatherUsageStats = false
